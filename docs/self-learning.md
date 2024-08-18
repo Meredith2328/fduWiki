@@ -41,6 +41,6 @@
 
 留学相关：**FDUHotpot**公众号，包含留学申请经验、暑研动态、海外生活/工作等信息。
 
-如果对CS（Computer Science，此处泛指计算机相关）自学有兴趣，可以了解[**csdiy**](https://csdiy.wiki/)等知名的自学资源推荐网站，也可以了解并参与复旦开源社（开放原子社团）及其做出的一系列尝试。
+如果对CS（Computer Science，此处泛指计算机相关）自学有兴趣，可以了解[**csdiy**](https://csdiy.wiki/)等知名的自学资源推荐网站，也可以了解并参与 **复旦开放原子开源社团** （公众号：FDUCSLG） 及其做出的一系列尝试。
 
-本Wiki内容在编写过程中参考了 [SurviveJK](https://survivejk.gitbook.io/survivejk) ，同时有 [@CodingMizore](https://github.com/CodingMizore) 的很大功劳，甚至这一页“大学与自学”也是受他启发，在此致谢。
+本Wiki内容在编写过程中参考了 [@Cameudis](https://github.com/Cameudis) 的 [SurviveJK](https://survivejk.gitbook.io/survivejk) ，同时有 [@CodingMizore](https://github.com/CodingMizore) 的很大功劳，这一页“大学与自学”主要是受他启发写出的，在此致谢。
