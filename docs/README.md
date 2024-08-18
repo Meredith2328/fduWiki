@@ -1,10 +1,10 @@
 # 首页
 
-欢迎来到fduWiki！
+欢迎来到fduWiki！本网站尝试为初入复旦的同学提供必要信息，帮助大家快速度过新手期。
 
-网站：https://meredith2328.github.io/fduWiki/
+网站链接：https://meredith2328.github.io/fduWiki/ （就是你现在在看的这个网站）
 
-点点左边的导航栏，看看有没有什么想看的~
+点点左下角的导航栏按钮，看看左边目录里有没有什么想看的~
 
 ## 怎样在本Wiki中添加内容
 
@@ -13,8 +13,10 @@
 
 ## 有其他建议？
 
+本文档刚刚开始编写，同时由我自己搜集整理，难免有不完善和片面之处。
+
 如果有任何对本文档的形式、功能、内容、错漏之处的建议，欢迎发送至 pipipi2328@gmail.com 。
 
-
+****
 
 Powered by [docsify](https://docsify.js.org/#/zh-cn/)
