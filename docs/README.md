@@ -2,6 +2,8 @@
 
 欢迎来到fduWiki！
 
+网站：https://meredith2328.github.io/fduWiki/
+
 点点左边的导航栏，看看有没有什么想看的~
 
 ## 怎样在本Wiki中添加内容
