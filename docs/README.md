@@ -1,6 +1,6 @@
 # 欢迎来到freshdan！
 
-**freshdan** 尝试为初入复旦的同学提供必要信息，帮助大家快速度过新手期。
+**freshdan** 致力于为初入复旦的同学提供必要信息，帮助大家快速度过新手期。
 
 网站链接：https://meredith2328.github.io/fduWiki/ （就是你现在在看的这个网站）
 
